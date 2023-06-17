@@ -1,0 +1,23 @@
+.body{
+    background-image: url(images/istockphoto-1314442458-612x612.jpg);
+    background-repeat: inherit;
+    background-size: 20rem;
+    width: fit-content;
+}
+
+.mdiv{
+    background-color: rgba(255, 255, 255, 0.678);
+    padding: 0.6rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    margin-top: 10rem;
+    width: fit-content;
+}
+
+.form{
+
+}
+
+input{
+    margin-top: 0.9rem;
+}
